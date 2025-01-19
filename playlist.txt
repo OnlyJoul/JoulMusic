@@ -18,3 +18,5 @@
 | surround sound              | 16 |
 | take on me                  | 17 |
 | witchblades                 | 18 |
+
+speaker play https://github.com/OnlyJoul/JoulMusic/raw/refs/heads/main/XX.dfpwm
